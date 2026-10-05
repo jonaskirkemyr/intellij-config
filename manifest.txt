@@ -1,0 +1,33 @@
+# Paths relative to the IntelliJ config dir (~/.config/JetBrains/IntelliJIdea<version>).
+# A trailing slash means a whole directory. Missing entries are skipped with a warning.
+#
+# Deliberately left out because they are machine-specific or private:
+# jdk.table.xml, path.macros.xml, recentProjects.xml, trusted-paths.xml,
+# databaseSettings.xml, ssl/, window*.xml, updates.xml and the usage-statistics files.
+
+idea64.vmoptions
+keymaps/
+
+options/laf.xml
+options/colors.scheme.xml
+options/editor-font.xml
+options/console-font.xml
+options/terminal-font.xml
+options/dracula-theme.xml
+options/other.xml
+options/ide.general.xml
+options/keymapFlags.xml
+options/linux/keymap.xml
+options/projectView.xml
+options/project.default.xml
+options/diff.xml
+options/find.xml
+options/debugger.xml
+options/runner.layout.xml
+
+# Uncomment when you start using them:
+# codestyles/
+# colors/
+# fileTemplates/
+# inspection/
+# templates/
