@@ -3,7 +3,6 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
-  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
@@ -146,4 +145,5 @@
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="ctrl f8" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
