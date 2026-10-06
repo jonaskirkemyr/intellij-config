@@ -1,4 +1,10 @@
 <application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="ZoomInIdeAction" />
+      <option value="ShowReformatFileDialog" />
+    </ids>
+  </component>
   <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
@@ -6,15 +12,20 @@
   <component name="NotRoamableUiSettings">
     <option name="fontFace" value="Inconsolata Nerd Font Mono" />
     <option name="fontSize" value="12.0" />
+    <option name="ideScale" value="1.1" />
     <option name="presentationModeIdeScale" value="1.75" />
     <option name="overrideLafFonts" value="true" />
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
+    "FindSplitterProportion": "0.16951501",
     "InstalledPluginsSearchHistory": "always select opened file",
+    "JUnitSupport.hidePassedTests": "false",
     "KEYMAP": "move and split\nshift",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "5",
-    "Markdown Split EditorLayout": "Preview only",
+    "Kotlin-Was-Debugged": "36",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "LayoutCode.rearrangeEntriesJSON": "false",
+    "Markdown Split EditorLayout": "Editor only",
     "MarketplacePluginsSearchHistory": "/tag:Theme",
     "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.AIPromoWindowAdvisorPreheat": "true",
@@ -22,17 +33,22 @@
     "RunOnceActivity.TerminalOptionsProvider.TerminalEngineMigration.2026.1": "true",
     "RunOnceActivity.TerminalOptionsProvider.appTitleMigration.2026.1.1": "true",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.gateway.wsl.native.mode.default.set": "true",
     "RunOnceActivity.git.modal.commit.toggle": "true",
     "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "RunOnceActivity.set.default.devcontainer.project.open.action": "true",
     "SettingsSearchHistory": "always select opened file\ntree appearance",
     "TerminalCompletionPopupPromotion.shownCount": "1",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.show.warnings.selection.state": "false",
     "cef_version_last_used": "144",
     "defaultJdkConfigured": "true",
+    "enter_selection_count": "2",
     "evlsprt3.262": "4",
     "experimental.ui.on.first.startup": "true",
-    "fileTypeChangedCounter": "1",
+    "fileTypeChangedCounter": "42",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
     "git.working.trees.stop.showing.new.badge": "true",
@@ -41,7 +57,7 @@
     "ide.islands.ab3": "true",
     "ide.islands.new.darcula": "true",
     "installed.kotlin.plugin.version": "262.10968.63-IJ",
-    "kotlin.lastUpdateCheck": "1791180474036",
+    "kotlin.lastUpdateCheck": "1791275133841",
     "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_Dracula",
@@ -49,9 +65,10 @@
     "settings.new.badge.shown.count.configurable.group.editor": "3",
     "settings.new.badge.shown.count.editor.preferences.appearance": "2",
     "settings.new.badge.shown.count.preferences.editor": "2",
+    "trial.state.free.trial.expiration.date": "1793746800000",
     "trial.state.last.availability.check": "1791181727066",
     "trial.state.last.availability.state": "true",
-    "trial.state.last.state": "TRIAL_AVAILABLE",
+    "trial.state.last.state": "ACTIVE",
     "ts.lib.d.ts.version": "6.0.3"
   },
   "keyToStringList": {
@@ -59,7 +76,10 @@
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
       "com.intellij.docker.dockerFile.DockerFileTypeDetector",
       "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
       "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
       "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
     ]
   }
